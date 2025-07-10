@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayalkbet (Mr Ayalk)</h1>
 <h3 align="center">A passionate full stack developer and creative frontend artist</h3>
 
+portfolio--  https://ayalk-portfolio.vercel.app/
+
 ---
 
 ### 💫 About Me
