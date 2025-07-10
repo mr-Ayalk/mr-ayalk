@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayalkbet (Mr Ayalk)</h1>
 <h3 align="center">A passionate full stack developer and creative frontend artist</h3>
 
-portfolio--  https://ayalk-portfolio.vercel.app/
+
 
 ---
 
 ### 💫 About Me
 
 - 🔭 I’m currently working on **fluid animations and API-integrated apps**
+-   portfolio--  https://ayalk-portfolio.vercel.app/
 - 🌱 I’m learning **Next.js, Framer Motion, and advanced backend scaling**
 - 🧠 Always exploring new tools to improve web performance and UX
 - 📫 Reach me: **ayalkteketel7@gmail.com**
