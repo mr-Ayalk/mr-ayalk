@@ -13,7 +13,7 @@
 - 😎  portfolio--  https://ayalk-portfolio.vercel.app/
 - 🌱 I’m learning **Next.js, Framer Motion, and advanced backend scaling**
 - 🧠 Always exploring new tools to improve web performance and UX
-- 📫 Reach me: **ayalkteketel7@gmail.com**
+- 📫 Reach me: **ayalkteketel7@gmail.com** or  **https://www.linkedin.com/in/ayalk/**
 - 💬 Ask me about **React, Node, Tailwind, GitHub APIs**
 - ⚡ Fun fact: I believe great UI is half the product quality
 
