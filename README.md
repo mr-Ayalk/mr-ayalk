@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 - 🔭 I’m currently working on **fluid animations and API-integrated apps**
-- 😎  portfolio--  https://ayalk-portfolio.vercel.app/
+- 😎  portfolio--  [https://ayalk-portfolio.vercel.app/](https://ayalk.netlify.app/)
 - 🌱 I’m learning **Next.js, Framer Motion, and advanced backend scaling**
 - 🧠 Always exploring new tools to improve web performance and UX
 - 📫 Reach me: **ayalkteketel7@gmail.com** or  **https://www.linkedin.com/in/ayalk/**
