@@ -17,29 +17,42 @@
 
 ## 🛠 Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🖥️ Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+### 🔧 Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### 🧠 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
+
+### 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UI%2FUX-ff69b4?style=flat&logo=adobe&logoColor=white)
+![Virtual Assistant](https://img.shields.io/badge/Virtual%20Assistant-blueviolet?style=flat)
 
 ---
----
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-Ayalk&theme=github-dark&hide_border=true)
-
----
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayalk/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/mr-Ayalk)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayalkteketel/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/) <!-- Replace with your link -->
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://ayalk.netlify.app/)
 
 ---
@@ -56,9 +69,6 @@
   <img src="https://github.com/user-attachments/assets/be977baf-4cde-41be-a206-3dcc8b33644e" width="700" />
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/5bc5845b-e150-43c5-a8b5-d7726ba950f7" width="700" />
- <br/><br/>
-<img width="776" height="536" alt="healthCareThumline" src="https://github.com/user-attachments/assets/def59c71-7406-48c8-91a5-0eda6df0af0d" />
-
 </p>
 
 ---
@@ -71,14 +81,14 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Ayalk&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Ayalk&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mr-Ayalk&theme=tokyonight&border_radius=10)
 
 ---
 
 ## ✍️ Blog & Content
 
-📘 Coming soon on [Dev.to](https://dev.to/) and [Medium](https://medium.com/)!
+📘 Coming soon on [Dev.to](https://dev.to/) and [Medium](https://medium.com/)
 
 ---
 
@@ -93,4 +103,3 @@
 > 💬 “Code for clarity. Design for impact.” – *Ayalk*
 
 ---
-
