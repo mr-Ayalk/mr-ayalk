@@ -50,6 +50,9 @@
   <img src="https://github.com/user-attachments/assets/be977baf-4cde-41be-a206-3dcc8b33644e" width="700" />
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/5bc5845b-e150-43c5-a8b5-d7726ba950f7" width="700" />
+ <br/><br/>
+<img width="776" height="536" alt="healthCareThumline" src="https://github.com/user-attachments/assets/def59c71-7406-48c8-91a5-0eda6df0af0d" />
+
 </p>
 
 ---
