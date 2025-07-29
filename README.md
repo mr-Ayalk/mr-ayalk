@@ -68,3 +68,5 @@ UpComing Project  | Health-Care Management System | Next.js
 
 <img width="776" height="536" alt="healthCareThumline" src="https://github.com/user-attachments/assets/b98c621b-ebaf-4778-b04a-7e4395b2bc4c" />
 
+Live Site --  https://healthcaremanagement-liard.vercel.app/patient
+
