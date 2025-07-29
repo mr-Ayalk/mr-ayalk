@@ -3,8 +3,6 @@
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🎨 Frontend UI/UX Artist | 🚀 Performance Enthusiast</h3>
-
-
 ---
 
 ## 💫 About Me
