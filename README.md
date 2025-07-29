@@ -87,7 +87,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=mr-Ayalk&theme=tokyonight&border_radius=10)
 
 ---
+---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-Ayalk&theme=github-dark&hide_border=true)
+
+---
 ## ✍️ Blog & Content
 
 📘 Coming soon on [Dev.to](https://dev.to/) and [Medium](https://medium.com/)
