@@ -111,6 +111,6 @@
 
 ---
 
-> 💬 “Code for clarity. Design for impact.” – *Ayalk*
+> 💬 “Code for clarity. Design for impact.” – *Ayalkbet Teketel (Ayalk)*
 
 ---
