@@ -72,7 +72,8 @@
   <img width="1356" height="643" alt="image" src="https://github.com/user-attachments/assets/1dbfede1-9d6a-434f-aa9e-273286eaded2" />
 
   <br/><br/>
-<img width="1355" height="638" alt="image" src="https://github.com/user-attachments/assets/11d45a42-e2c0-48d7-bf21-b8d469aa0a96" />
+<img width="1348" height="643" alt="image" src="https://github.com/user-attachments/assets/127be5fc-f8eb-4d42-aca5-ab0dabe108f9" />
+
 
 <br/><br/>
 <img width="700" height="536" alt="healthCareThumline" src="https://github.com/user-attachments/assets/e74db4dc-951a-45cc-81fd-2df4fe3711fd" />
