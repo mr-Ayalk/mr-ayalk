@@ -66,7 +66,8 @@
 🌍 **Live** → [healthcaremanagement-liard.vercel.app/patient](https://healthcaremanagement-liard.vercel.app/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb27262a-bfd4-4e4d-911f-b205252fc002" width="700" />
+<img width="1355" height="642" alt="image" src="https://github.com/user-attachments/assets/f3695d8e-1731-417b-8fda-3c3c8952d130" />
+
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/be977baf-4cde-41be-a206-3dcc8b33644e" width="700" />
   <br/><br/>
