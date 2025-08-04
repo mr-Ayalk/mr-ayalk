@@ -59,7 +59,7 @@
 
 ---
 
-## 🧠 Featured Project: Health-Care Management System
+## 🧠 Featured Project: Health-Care Management System (Completed Version Coming Soon)
 
 > A scalable and intuitive healthcare app for patients and doctors. Live preview below 👇
 
