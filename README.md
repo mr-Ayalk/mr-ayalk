@@ -76,8 +76,9 @@
 
 
 <br/><br/>
-<img width="700" height="536" alt="healthCareThumline" src="https://github.com/user-attachments/assets/e74db4dc-951a-45cc-81fd-2df4fe3711fd" />
+
 <img width="1358" height="642" alt="image" src="https://github.com/user-attachments/assets/3994df10-8ca2-4209-9164-64dce53f19e9" />
+<img width="1358" height="637" alt="image" src="https://github.com/user-attachments/assets/6efdef9b-879f-429f-a140-466010cfbeb8" />
 
 </p>
 
