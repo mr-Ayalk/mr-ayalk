@@ -107,7 +107,7 @@
 
 - ✅ Meta Front-End Developer (Coursera).
 - ✅ JavaScript Algorithms & Data Structures – freeCodeCamp.
-- ✅ Responsive Web Design – freeCodeCamp
+- ✅ Responsive Web Design – freeCodeCamp.
 
 ---
 
