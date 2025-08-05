@@ -5,7 +5,7 @@
 <h3 align="center">💻 Full Stack Developer | 🎨 Frontend UI/UX Artist | 🚀 Performance Enthusiast</h3>
 ---
 
-## 💫 About Me.
+## 💫 About Me
 
 - 🔭 Currently building **fluid UIs and API-driven apps**
 - 🌐 Portfolio → [ayalk.netlify.app](https://ayalk.netlify.app/)
