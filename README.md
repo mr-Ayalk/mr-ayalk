@@ -42,7 +42,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
 
-### 🎨 Design & Productivity
+### 🎨 Design & Productivity.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UI%2FUX-ff69b4?style=flat&logo=adobe&logoColor=white)
 ![Virtual Assistant](https://img.shields.io/badge/Virtual%20Assistant-blueviolet?style=flat)
