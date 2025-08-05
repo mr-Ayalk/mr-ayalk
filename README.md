@@ -84,7 +84,7 @@
 
 ---
 
-## 📊 GitHub Stats.
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Ayalk&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mr-Ayalk&theme=tokyonight&border_radius=10)
