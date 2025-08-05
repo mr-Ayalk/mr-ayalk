@@ -63,7 +63,7 @@
 
 > A scalable and intuitive healthcare app for patients and doctors. Live preview below 👇
 
-🌍 **Live** → ([https://healthcaremanagement-liard.vercel.app/](https://healthcaremanagement-dow4.vercel.app/))
+🌍 **Live** → ([https://healthcaremanagement-dow4.vercel.app/](https://healthcaremanagement-dow4.vercel.app/))
 
 <p align="center">
   <img width="1357" height="641" alt="image" src="https://github.com/user-attachments/assets/d074bd23-1e31-4623-bd8f-52a71cf59002" />
