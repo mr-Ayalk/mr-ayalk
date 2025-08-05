@@ -92,7 +92,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-Ayalk&theme=github-dark&hide_border=true)
 
