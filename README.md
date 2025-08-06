@@ -78,7 +78,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements.
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mr-Ayalk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
