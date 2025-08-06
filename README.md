@@ -9,7 +9,7 @@
 
 - 🔭 Currently building **fluid UIs and API-driven apps**
 - 🌐 Portfolio → [ayalk.netlify.app](https://ayalk.netlify.app/)
-- Resume -      https://drive.google.com/file/d/1W2TFFXthMo8gZapUAGEEfEqUh0tgst-F/view?usp=sharing
+- 🔗 Resume ---https://drive.google.com/file/d/1W2TFFXthMo8gZapUAGEEfEqUh0tgst-F/view?usp=sharing
 - 🌱  **Next.js, Framer Motion, & scalable backend systems**
 - 💬 Ask me about: **React, Node.js, GitHub APIs, TailwindCSS**
 - 📫 Reach me: [ayalkteketel7@gmail.com](mailto:ayalkteketel7@gmail.com)
