@@ -84,6 +84,7 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mr-Ayalk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+![Mr Ayalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-Ayalk&show_icons=true&theme=tokyonight)
 
 ## 📊 GitHub Stats
 
