@@ -48,12 +48,6 @@
 ![UX/UI](https://img.shields.io/badge/UI%2FUX-ff69b4?style=flat&logo=adobe&logoColor=white)
 ![Virtual Assistant](https://img.shields.io/badge/Virtual%20Assistant-blueviolet?style=flat)
 
----
-
-
-## 🏆 GitHub Achievements.
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mr-Ayalk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
