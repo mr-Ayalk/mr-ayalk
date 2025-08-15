@@ -50,15 +50,6 @@
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayalk/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/mr-Ayalk)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayalkteketel/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://ayalk.netlify.app/)
-
----
 
 ## 🧠 Featured Project: Health-Care Management System (Completed Version Coming Soon)
 
