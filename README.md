@@ -65,12 +65,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-Ayalk&theme=github-dark&hide_border=true)
 
 ---
-## ✍️ Blog & Content.
-
-📘 Coming soon on [Dev.to](https://dev.to/) and [Medium](https://medium.com/)
-
----
-
 ## 🎓 Certifications.
 
 - ✅ Meta Front-End Developer (Coursera).
