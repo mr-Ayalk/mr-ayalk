@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayalkbet+%28Ayalk%29.;A+Passionate+Full+Stack+Developer;Creative+Frontend+UI%2FUX+Engineer;Always+building+fluid+apps+%26+smooth+UX!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | 🎨 Frontend UI/UX Artist | 🚀 Performance Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer || 🎨 Frontend UI/UX Artist | 🚀 Performance Enthusiast</h3>
 
 
 ## 💫 About Me
