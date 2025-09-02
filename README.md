@@ -58,8 +58,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Ayalk&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mr-Ayalk&theme=tokyonight&border_radius=10)
 
----
-![Mr Ayalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-Ayalk&show_icons=true&theme=tokyonight)
 
 ---
 
