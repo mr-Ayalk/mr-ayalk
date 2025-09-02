@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">💻 Full Stack Developer || 🎨 Frontend UI/UX Artist || 🚀 Performance Enthusiast.</h3>
+![Mr Ayalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-Ayalk&show_icons=true&theme=tokyonight)
 
 
 ## 💫 About Me
