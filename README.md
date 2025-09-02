@@ -62,7 +62,7 @@
 
 
 ---
-## 🎓 Certifications.
+## 🎓 Certifications
 
 - ✅ Meta Front-End Developer (Coursera).
 - ✅ JavaScript Algorithms & Data Structures – freeCodeCamp.
