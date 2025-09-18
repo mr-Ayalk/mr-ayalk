@@ -7,7 +7,7 @@
 
 
 
-## 💫 About Me
+## 💫 About Me.
 
 - 🔭 Currently building **fluid UIs and API-driven apps**
 - 🌐 Portfolio → [ayalk.netlify.app](https://ayalk.netlify.app/)
