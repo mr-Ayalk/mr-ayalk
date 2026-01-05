@@ -73,21 +73,7 @@
 > 💬 “Code for clarity. Design for impact.” – *Ayalkbet Teketel (Ayalk)*
 
 ---
-## 🌐 Live Demo
 
-On Development -- Completed Version Coming Soon``
-Shalom Health Care Center
-
-🔗 **Demo URL**: ([https://your-deployment.vercel.app](https://healthcaremanagement-dow4.vercel.app))  
-
-<p align="center">
-<img width="1355" height="642" alt="image" src="https://github.com/user-attachments/assets/f3695d8e-1731-417b-8fda-3c3c8952d130" />
-
-<img width="1348" height="643" alt="image" src="https://github.com/user-attachments/assets/127be5fc-f8eb-4d42-aca5-ab0dabe108f9" />
-<img width="1358" height="637" alt="image" src="https://github.com/user-attachments/assets/6efdef9b-879f-429f-a140-466010cfbeb8" />
-<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/31068166-284a-415f-98bb-a560c6802109" />
-
-</p>
 
 ---
 ---
